@@ -1,8 +1,7 @@
 
-# Express + Typescript
+# setup for Express + Typescript
 
-
-## Installation
+## Usage
 
 Requirements
 + pnpm 
