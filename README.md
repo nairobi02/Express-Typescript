@@ -6,6 +6,8 @@
 Requirements
 + pnpm 
 
++ ```pnpm i nodemon ts-node -g ```
+
 + set the following in tsconfig.json
 
 ```bash
